@@ -11,12 +11,13 @@ alias d="cd ~/Documents/Dropbox"
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
 alias p="cd ~/Projects"
-alias ee="cd ~/Projects/excellenteasy/"
-alias hoo="cd ~/Projects/hoodiehq/"
 alias g="git"
 alias n="npm"
 alias h="history"
 alias j="jobs"
+alias dtg="ssh root@178.62.249.245"
+alias ksw="ssh root@178.62.167.55"
+alias subl="atom"
 
 # Detect which `ls` flavor is in use
 if ls --color > /dev/null 2>&1; then # GNU `ls`
